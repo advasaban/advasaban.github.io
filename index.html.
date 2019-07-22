@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style> 
+        body{background-color:rgb(230, 199, 122);}
+        h2{color:rgb(38, 115, 31);}
+            h1 {color: rgb(30, 55, 179);
+                text-align:center;
+            }
+            h6{color:rgb(129, 171, 235);}
+            ol {background-color: rgb(131, 156, 219);}
+            p {background-color: rgb(255, 122, 33);}
+            ul {background-color: rgb(209, 206, 171);}
+            h4 {color:rgb(32, 20, 140);}
+            .food {color:rgb(114, 128, 219);}
+            #first-heading {background-color: rgb(106, 106, 222);}
+        </style>
+    </head>
+    <body>
+   
+        <h1 id="first-heading">Travel to australia!</h1> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/1280px-Flag_of_Australia.svg.png" width="100">
+        <h2> Today i will recomend you to visit in this
+        
+        <em> wonderfull </em> land </h2>
+        <h6> an article by: <br>Adva Saban </h6>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Sydney_Opera_house_3.jpg" alt="sydny" width="225">  
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Brisbane_May_2013.jpg/1024px-Brisbane_May_2013.jpg" alt="Brisbane" width="225">
+        <p> <strong> Weather in Australia:<br> </strong>
+Australia experiences temperate weather for most of the year but the climate can vary due to the size of our continent.
+
+The northern states typically experience warm weather much of the time,
+with the southern states experiencing cooler winters. Australia is also one of the driest continents on earth with an average annual rainfall of less than 600 millimetres.
+
+Like all countries in the southern hemisphere, Australia’s seasons are opposite to those in the northern hemisphere. December to February is summer; March to May is autumn; June to August is winter; and September to November is spring.
+
+ </p>
+ <h4>so you might consider bring clouthes in accordance to your destination :)  </h4>
+        <h2> top 3 places you should visit:</h2>
+        <ol> <li> Whitsunday Islands, Queensland<li>Kakadu National Park, Northern Territory <li>Sydney, NSW </ol>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Melbourne_skyline_on_14_September_2013.jpg/800px-Melbourne_skyline_on_14_September_2013.jpg" alt="Melbourne" width="225">
+        <h2> recommended food:</h2>
+        <ul> <li class="food"> The meringue-based <strong>pavlova</strong> that is generally eaten at <em>Christmas time</em> </li> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Pavlova_garnished_with_cream_and_strawberries.jpg/800px-Pavlova_garnished_with_cream_and_strawberries.jpg" alt="pavlova" width="150">
+        <li class="food">ANZAC biscuits <em>(without coconut)</em><br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/ANZAC_biscuits.JPG/800px-ANZAC_biscuits.JPG" alt="ANZAC biscuits" width="150"> </li> </ul>
+    </body>
+</html>
